@@ -1,0 +1,14 @@
+page_settings
+{
+	url: "testing"
+	title: "testing-your mom gay"
+}
+
+box 
+{
+	x_position: 40
+	y_position: 40
+	width: 400
+	height: 400
+	text: "Your mother, is gay so, yeah."
+}
