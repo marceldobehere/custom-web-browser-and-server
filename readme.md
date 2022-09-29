@@ -7,4 +7,4 @@ It's in a somewhat ok stage.
 
 Also RoSL is in a working stage and ya can find the docs for both langs in the data/docs folder.
 
-[a](images/browser.png)
+![Image](images/browser.png)
